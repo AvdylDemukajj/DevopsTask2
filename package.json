@@ -1,0 +1,22 @@
+{
+  "name": "jenkins-welcome-app",
+  "version": "1.0.0",
+  "description": "Një aplikacion i thjeshtë që shfaq Welcome to Jenkins",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvdylDemukajj/DevopsTask2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvdylDemukajj/DevopsTask2/issues"
+  },
+  "homepage": "https://github.com/AvdylDemukajj/DevopsTask2#readme"
+}
